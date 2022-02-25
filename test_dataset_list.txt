@@ -1,0 +1,44 @@
+< HCI (HCI_old) >
+buddha
+horses
+monasRoom
+papillon
+
+< HCI2 (HCI_new) >
+bedroom
+bicycle
+boxes
+sideboard
+
+< EPFL >
+Flowers
+Fountain_Pool
+Friends_5
+ISO_Chart_12
+Palais_du_Luxembourg
+Paved_Road
+Reeds
+University
+
+< Stanford >
+bikes_1
+bikes_2
+buildings_1
+buildings_2
+cars_1
+cars_2
+general_1
+general_2
+occlusions_1
+occlusions_2
+people_1
+people_2
+reflective_1
+reflective_2
+
+< INRIA >
+Bee_1
+Building
+Hublais
+MessyDesk
+Sculpture
